@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For RTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCF8563	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getEpoch	KEYWORD2
+setEpoch	KEYWORD2
+startClock  KEYWORD2
+stopClock	KEYWORD2
+lowVolt		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
